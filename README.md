@@ -7,8 +7,9 @@
 - [Attribution](#attribution)
 - [Copyright and license](#copyright-and-license)
 
+
 ## Description
-provided a static example of CSS and HTML markup without any of React code and added interactivity to the app by refactoring this static code using React, this project is a part of the Udacity's [React Developer
+provided a static template of CSS and HTML markup without any of React code and added interactivity to the app by refactoring the static code in this template using React, this project is a part of the Udacity's [React Developer
 Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
 
 
@@ -29,7 +30,6 @@ Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
           npm start
           ```
       
-
 
 ## Attribution
 * [MyReads Project Starter Code](https://github.com/udacity/reactnd-project-myreads-starter)
