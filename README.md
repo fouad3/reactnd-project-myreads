@@ -8,7 +8,7 @@
 - [Copyright and license](#copyright-and-license)
 
 ## Description
-provided a static example of the CSS and HTML markup without any of React code and added interactivity to the app by refactoring this static code using React, this project is a part of the Udacity's [React Developer
+provided a static example of CSS and HTML markup without any of React code and added interactivity to the app by refactoring this static code using React, this project is a part of the Udacity's [React Developer
 Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
 
 
